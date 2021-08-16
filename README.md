@@ -4,4 +4,4 @@ This template is based on the LaTeX package Tikzposter. There is a minor bug ass
 
 The example poster looks like this: 
 
-![poster](/Users/andrewli/Documents/Projects/poster_template/poster.jpg)
+![poster](poster.jpg)
